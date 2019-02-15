@@ -1,1 +1,1 @@
-# AsunasRambles
+Just my rambles and thoughts, also so I can figure out how the fucking fuck Github works.
